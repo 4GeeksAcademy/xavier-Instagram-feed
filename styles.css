@@ -1,0 +1,46 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: lightgrey;
+}
+
+.page-header {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-date {
+    color: grey;
+    margin-right: 10px;
+}
+
+.post-header h2 {
+    margin-left: 10px;
+}
+
+.post-descripcion {
+    padding: 10px;
+}
+
+.post {
+    background-color: white;
+    max-width: 500px;
+}
+
+.post-image {
+    width: 100%;
+}
+
